@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lkDuemi1h5Q=",
+  "dgSpecHash": "5/uoUxLkbJw=",
   "success": true,
   "projectFilePath": "C:\\Users\\JCO\\source\\repos\\myCoursesApi\\myCoursesApi\\myCoursesApi.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,7 @@
     "C:\\Users\\JCO\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\JCO\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
     "C:\\Users\\JCO\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\JCO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
     "C:\\Users\\JCO\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\JCO\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
     "C:\\Users\\JCO\\.nuget\\packages\\npgsql.dependencyinjection\\8.0.6\\npgsql.dependencyinjection.8.0.6.nupkg.sha512",

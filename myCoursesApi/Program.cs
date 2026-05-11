@@ -43,11 +43,13 @@ var app = builder.Build();
 app.MapIdentityApi<IdentityUser>();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
 
 app.UseHttpsRedirection();
 app.UseCors("DefaultCorsPolicy");
@@ -56,5 +58,12 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+//using (var scope = app.Services.CreateScope())
+//{
+//    var db = scope.ServiceProvider.GetRequiredService<AuthDbContext>();
+
+//    db.Database.Migrate();
+//}
 
 app.Run();

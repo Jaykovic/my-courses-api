@@ -136,3 +136,4 @@ C:\Users\JCO\source\repos\myCoursesApi\myCoursesApi\obj\Debug\net8.0\myCoursesAp
 C:\Users\JCO\source\repos\myCoursesApi\myCoursesApi\obj\Debug\net8.0\myCoursesApi.genruntimeconfig.cache
 C:\Users\JCO\source\repos\myCoursesApi\myCoursesApi\obj\Debug\net8.0\ref\myCoursesApi.dll
 C:\Users\JCO\source\repos\myCoursesApi\myCoursesApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\JCO\source\repos\myCoursesApi\myCoursesApi\obj\Debug\net8.0\myCoursesApi.sourcelink.json
